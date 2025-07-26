@@ -33,7 +33,8 @@ Build a classifier that can accurately distinguish between real and fake news ar
 | Recall      | 0.98  |
 | F1-Score    | 0.98  |
 
-![Confusion Matrix](confusion_matrix.png)  <!-- You can upload and refer image if needed -->
+![Confusion Matrix](confusion_matrix.png)  <img width="501" height="422" alt="image" src="https://github.com/user-attachments/assets/ae9dc0bd-1e39-4145-87dc-431e07cf512b" />
+
 
 ##  Inference
 The model performs exceptionally well and generalizes both classes (real/fake) equally.
